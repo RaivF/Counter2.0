@@ -1,0 +1,9 @@
+.resultSpan {
+    font-size: 90px;
+    margin: 0 auto;
+}
+.resultSpanRed{
+    font-size: 90px;
+    margin: 0 auto;
+    color: red;
+}
